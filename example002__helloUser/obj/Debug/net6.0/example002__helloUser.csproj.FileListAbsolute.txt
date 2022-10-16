@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\bin\Debug\net6.0\example002__helloUser.exe
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\bin\Debug\net6.0\example002__helloUser.deps.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\bin\Debug\net6.0\example002__helloUser.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\bin\Debug\net6.0\example002__helloUser.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\bin\Debug\net6.0\example002__helloUser.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\refint\example002__helloUser.dll
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.pdb
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\example002__helloUser.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования (лекции)c#\задания лекция1_1\example002__helloUser\obj\Debug\net6.0\ref\example002__helloUser.dll
